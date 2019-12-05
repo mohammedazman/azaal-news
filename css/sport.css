@@ -1,0 +1,76 @@
+@charset "utf-8";
+/* CSS Document */
+#packet_h{
+	width:72%;
+	float:right;
+	height:26em;
+	background-color:#DCDCDC;
+	margin-bottom:0.8em;
+	
+	margin:0.5em;
+	font-size:20px;;
+	text-align:center;
+	padding:0.5em;
+	border-radius:0.5em 0.5em 4em 4em;
+	position:static;
+	}
+	#packet_h:hover #hiden1{ display:inherit;}
+#packet_h img{
+width:100%;}
+.packet{
+	width:35%;
+	float:right;
+	height:16em;
+	background-color:#DCDCDC;
+	margin-bottom:0.8em;
+	margin:0.5em;
+	font-size:20px;;
+	text-align:center;
+	padding:0.5em;
+	border-radius:2em 2em 0 0;
+	position:relative;}
+	.packet img{
+	width:100%;
+	border-radius:2em 2em 0 0;}
+	.packet a{
+		margin-bottom:1em;
+		text-decoration:none;}
+		#share1{
+			float:left;
+			position:absolute;
+			left:15em;
+			}
+			#share1 img{
+			width:1.5em;
+			height:1.5em;
+			border-radius:0.8em;
+			}
+		.share{
+			float:left;
+			position:absolute;
+			left:2em;
+			bottom:0.2em;}
+			.share img{
+			width:1.5em;
+			height:1.5em;
+			border-radius:0.8em;
+			}
+			.reportage{
+				float:right;
+				position:absolute;
+				right:2em;
+				bottom:0.8em;}
+			.comment{
+				padding:0.2em;
+				background:#716BFD;
+				border-radius:60%;}
+				.watch{
+					padding:0.2em;
+				background:#A7A7A7;
+				border-radius:60%;}
+				#hiden1{display:none;
+					}
+					
+		#dropbut{
+			background:#F4F4F4;
+			color:#111;}

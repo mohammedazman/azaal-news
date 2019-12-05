@@ -1,0 +1,38 @@
+@charset "utf-8";
+/* CSS Document */
+section{
+	direction:rtl;}
+	
+.schedule_head{
+	background:-webkit-linear-gradient(bottom ,#C7C7C7,#fff);
+	width:71%;
+	padding:0.4em 1em 0.4em 0;
+	border-bottom:solid 0.2em #000000;
+	font-size:1.5em;
+	max-height:1em;
+	margin:1.5em 1.4em 0 1em;
+	clear:right;
+	}
+.schedule_one{
+	width:70%;
+	height:30em;
+
+	margin:1em 3em 1em 1em;
+	float:right;
+	}
+	.schedule_one img{
+	max-width:100%;
+	min-width:100%;
+	height:80%;
+	
+	}
+	.schedule_one_head{
+	background:-webkit-linear-gradient(bottom ,#C7C7C7,#fff);
+	padding:0.4em 1em 0.4em 0;
+	border-bottom:solid 0.2em #760001;
+	font-size:1.5em;
+	max-height:1em;}
+	.schedule_one_content{
+		background:-webkit-linear-gradient(bottom ,#C7C7C7,#fff);
+	padding:0.4em 1em 0.4em 0;
+	max-height:3em;}

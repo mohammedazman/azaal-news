@@ -1,0 +1,112 @@
+@charset "utf-8";
+/* CSS Document */
+section{
+	direction:rtl;}
+	#health_min{
+		margin:1em;
+		background-color:#000000;
+		max-width:75%;
+		color:#fff;
+		margin-top:1.5em;}
+		#health_min img{
+			min-width:30em;
+			min-height:20em;
+		
+			}
+			#health_min_head{height:0.2em;
+								background: -webkit-linear-gradient(bottom ,#C7C7C7,#fff);
+				color:#111;
+				font-size:24px;
+				padding:1em;
+				border-bottom:ridge 0.2em #FF4346;
+				}
+				#health_min_head_P{
+					font-size:18px;}
+					#health_important{
+						width:75%;
+							margin:1em;
+						}
+					
+					#health_important_head{
+						
+						background: -webkit-linear-gradient(bottom ,#C7C7C7,#fff);
+				color:#111;
+				height:0.2em;
+				font-size:24px;
+				padding:1em;
+				border-bottom:ridge 0.2em #FF4346;
+				margin:0;
+		
+				}
+				.health_news{
+					margin:0.3em;
+					float:right;
+					width:22em;
+					height:22em;
+					min-width:10em;
+					min-height:5em;
+					background:-webkit-linear-gradient(top ,#C7C7C7,#fff);
+			
+					}
+					.health_news img{
+					width:22em;
+					height:12em;}
+					.health_news_head{
+						font-size:18px;
+						font-weight:500;}
+					
+					
+					
+					#health_slider{	width:60%;
+					float:right;
+							margin:1em;
+						clear:both;}
+					#health_slider_head{
+						width:92%;
+						float:right;
+						height:0.2em;
+						background: -webkit-linear-gradient(bottom ,#C7C7C7,#fff);
+				color:#111;
+				font-size:24px;
+				padding:1em;
+				border-bottom:ridge 0.2em #FF4346;
+				}
+				#health_slider_frame{
+				
+							
+					float:right;}
+					#health_more_news{float:left;
+						width:30%;
+					margin:1em;
+					background:-webkit-linear-gradient(top ,#C7C7C7,#fff);
+					
+				
+						}
+					#health_more_head{background: -webkit-linear-gradient(bottom ,#C7C7C7,#fff);		
+						color:#111;
+						height:0.2em;
+				font-size:24px;
+				padding:1em;
+				border-bottom:ridge 0.2em #FF4346;
+				}
+				.health_more_one{
+					float:right;
+					
+					
+					margin:1em;
+					}
+					#health_img img{
+						 width:75%;
+						 margin:1em;
+						 height:10em; 
+						}
+					
+					
+					
+				
+					
+					
+				
+		
+	
+
